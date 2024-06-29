@@ -1,4 +1,3 @@
 <?php
-$conexion=mysqli_connect("localhost","root","","grandfox") or die("error de conexión");
-
+$conn=mysqli_connect("localhost","root","","libronet") or die("error de conexión");
 ?>
